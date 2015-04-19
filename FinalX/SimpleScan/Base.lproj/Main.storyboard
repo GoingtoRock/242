@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Lato-Bold.ttf">
+            <string>Lato-Bold</string>
+            <string>Lato-Bold</string>
+            <string>Lato-Bold</string>
+            <string>Lato-Bold</string>
+        </mutableArray>
+        <mutableArray key="Lato-Light.ttf">
+            <string>Lato-Light</string>
+            <string>Lato-Light</string>
+            <string>Lato-Light</string>
+            <string>Lato-Light</string>
+            <string>Lato-Light</string>
+            <string>Lato-Light</string>
+        </mutableArray>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7V9-9F-qut">
+                                <rect key="frame" x="213" y="527" width="175" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="175" id="Aib-ha-yrw"/>
+                                    <constraint firstAttribute="height" constant="30" id="PcE-z5-Hej"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="13"/>
+                                <state key="normal" title="What is SimpleScan?">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <variation key="heightClass=regular-widthClass=compact" ambiguous="YES" misplaced="YES">
+                                    <rect key="frame" x="213" y="538" width="175" height="30"/>
+                                </variation>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="64X-Ir-Rt8">
+                                <rect key="frame" x="149" y="330" width="296.5" height="64"/>
+                                <color key="backgroundColor" red="0.0" green="0.65779483318328857" blue="0.77546989917755127" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="64" id="clq-ki-AfG"/>
+                                    <constraint firstAttribute="width" constant="296" id="jlr-E5-B6s"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="18"/>
+                                <state key="normal" title="Scan Receipts">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <variation key="heightClass=regular-widthClass=compact" ambiguous="YES" misplaced="YES">
+                                    <rect key="frame" x="213" y="365" width="175" height="50"/>
+                                </variation>
+                                <connections>
+                                    <segue destination="ijf-67-Z56" kind="custom" customClass="MCFadeSegue" id="quw-wl-T5Q"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L05-06-iSf">
+                                <rect key="frame" x="149" y="433" width="296" height="64"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="296" id="04B-zg-T2c"/>
+                                    <constraint firstAttribute="height" constant="64" id="Zps-bd-KL5"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="18"/>
+                                <state key="normal" title="View the record">
+                                    <color key="titleColor" red="0.99989169836044312" green="1" blue="0.99988096952438354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="25"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                                        <integer key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <variation key="heightClass=regular-widthClass=compact" ambiguous="YES" misplaced="YES">
+                                    <rect key="frame" x="210" y="442" width="180" height="42"/>
+                                </variation>
+                                <connections>
+                                    <segue destination="NXz-dd-zIh" kind="custom" customClass="MCFadeSegue" id="Jaz-DT-k1R"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l4Z-RT-RaD">
+                                <rect key="frame" x="56" y="190" width="488" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="500" id="5tz-Mh-yYY"/>
+                                    <constraint firstAttribute="height" constant="75" id="xDG-aP-xtu"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="40"/>
+                                <state key="normal" title="SimpleScan">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.12156862745098039" green="0.13333333333333333" blue="0.16470588235294117" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="64X-Ir-Rt8" firstAttribute="centerX" secondItem="l4Z-RT-RaD" secondAttribute="centerX" constant="-2.5" id="5IV-pA-VYZ"/>
+                            <constraint firstItem="l4Z-RT-RaD" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" constant="190" id="EGU-hK-QQT"/>
+                            <constraint firstItem="L05-06-iSf" firstAttribute="top" secondItem="l4Z-RT-RaD" secondAttribute="bottom" constant="168" id="Wan-yj-Abq"/>
+                            <constraint firstItem="l4Z-RT-RaD" firstAttribute="centerX" secondItem="L05-06-iSf" secondAttribute="centerX" constant="3" id="eis-FQ-oTr"/>
+                            <constraint firstItem="64X-Ir-Rt8" firstAttribute="top" secondItem="l4Z-RT-RaD" secondAttribute="bottom" constant="66" id="gfM-3i-780"/>
+                            <constraint firstAttribute="centerX" secondItem="l4Z-RT-RaD" secondAttribute="centerX" id="hTr-3e-YPm"/>
+                            <constraint firstItem="7V9-9F-qut" firstAttribute="centerX" secondItem="l4Z-RT-RaD" secondAttribute="centerX" constant="-2.5" id="nj3-4t-d0T"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="VEg-jS-JHE"/>
+                    <connections>
+                        <outlet property="login_button" destination="L05-06-iSf" id="Ir9-D0-kGb"/>
+                        <outlet property="sign_button" destination="64X-Ir-Rt8" id="SWT-Zo-dd8"/>
+                        <outlet property="spend" destination="l4Z-RT-RaD" id="GwG-a8-73c"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-273" y="300"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="x7j-T8-TFa">
+            <objects>
+                <viewController id="ijf-67-Z56" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="iMV-9g-DAB"/>
+                        <viewControllerLayoutGuide type="bottom" id="cmJ-ef-QXO"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="lNt-gW-NIV">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ebu-Ik-8Ga">
+                                <rect key="frame" x="51" y="28" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="Hvt-7i-z0q"/>
+                                    <constraint firstAttribute="width" constant="50" id="ujW-Zf-k3s"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="X">
+                                    <color key="titleColor" red="0.64525526762008667" green="0.705780029296875" blue="0.72682678699493408" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="KZP-9M-sRM" kind="custom" customClass="MCFadeSegue" id="Nmu-b8-pL5"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleAspectFit" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Full Name" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="lBq-xC-MKY">
+                                <rect key="frame" x="240" y="225" width="125" height="30"/>
+                                <color key="backgroundColor" red="0.090196078431372548" green="0.094117647058823528" blue="0.12549019607843137" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="125" id="0x3-9F-dye"/>
+                                    <constraint firstAttribute="height" constant="30" id="hol-fI-np4"/>
+                                </constraints>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="_placeholderLabel.textColor">
+                                        <color key="value" white="0.5" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleAspectFit" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Email" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="AJc-dX-di8">
+                                <rect key="frame" x="240" y="285" width="125" height="30"/>
+                                <color key="backgroundColor" red="0.090196078430000007" green="0.094117647060000004" blue="0.12549019610000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="125" id="5aV-Q2-54N"/>
+                                    <constraint firstAttribute="height" constant="30" id="oCL-hV-uyh"/>
+                                </constraints>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="_placeholderLabel.textColor">
+                                        <color key="value" red="0.82736045122146606" green="0.82750314474105835" blue="0.82735145092010498" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleAspectFit" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Password" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="hCa-0J-e1c">
+                                <rect key="frame" x="240" y="345" width="125" height="30"/>
+                                <color key="backgroundColor" red="0.090196078430000007" green="0.094117647060000004" blue="0.12549019610000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="125" id="i2r-Ht-MSG"/>
+                                    <constraint firstAttribute="height" constant="30" id="z4T-LN-wm0"/>
+                                </constraints>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="_placeholderLabel.textColor">
+                                        <color key="value" red="0.82736045122146606" green="0.82750314474105835" blue="0.82735145092010498" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="SimpleScan" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="M9D-OY-lXc">
+                                <rect key="frame" x="185" y="90" width="245" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="75" id="NxG-Uq-Gb6"/>
+                                    <constraint firstAttribute="width" constant="500" id="ZyR-Nl-sUq"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="40"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.12156862745098039" green="0.12941176470588237" blue="0.16470588235294117" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="AJc-dX-di8" firstAttribute="top" secondItem="M9D-OY-lXc" secondAttribute="bottom" constant="120" id="1b8-Ob-CYY"/>
+                            <constraint firstItem="lBq-xC-MKY" firstAttribute="top" secondItem="M9D-OY-lXc" secondAttribute="bottom" constant="60" id="BHM-8L-4B1"/>
+                            <constraint firstItem="M9D-OY-lXc" firstAttribute="top" secondItem="lNt-gW-NIV" secondAttribute="top" constant="90" id="MMi-e3-rFK"/>
+                            <constraint firstItem="ebu-Ik-8Ga" firstAttribute="top" secondItem="lNt-gW-NIV" secondAttribute="top" constant="28" id="TQO-rW-1m4"/>
+                            <constraint firstItem="ebu-Ik-8Ga" firstAttribute="leading" secondItem="lNt-gW-NIV" secondAttribute="leading" constant="51" id="UA1-rT-PBp"/>
+                            <constraint firstItem="AJc-dX-di8" firstAttribute="centerX" secondItem="M9D-OY-lXc" secondAttribute="centerX" constant="2.5" id="gs2-Nt-0Rr"/>
+                            <constraint firstItem="hCa-0J-e1c" firstAttribute="top" secondItem="M9D-OY-lXc" secondAttribute="bottom" constant="180" id="orT-lp-xic"/>
+                            <constraint firstAttribute="centerX" secondItem="M9D-OY-lXc" secondAttribute="centerX" id="uo5-JQ-chS"/>
+                            <constraint firstItem="hCa-0J-e1c" firstAttribute="centerX" secondItem="M9D-OY-lXc" secondAttribute="centerX" constant="2.5" id="x8x-d8-Nlf"/>
+                            <constraint firstItem="lBq-xC-MKY" firstAttribute="centerX" secondItem="M9D-OY-lXc" secondAttribute="centerX" constant="2.5" id="zny-yN-vjh"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="M9M-SE-5oo"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bUx-EC-jnG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="555" y="300"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="yGg-DT-lzz">
+            <objects>
+                <viewController id="NXz-dd-zIh" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="9xU-j1-25r"/>
+                        <viewControllerLayoutGuide type="bottom" id="jjy-aF-yU0"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="vGz-Zx-ifQ">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nfk-r9-vi7">
+                                <rect key="frame" x="50" y="50" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="6D6-km-av2"/>
+                                    <constraint firstAttribute="width" constant="50" id="FXy-BS-ugs"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="X">
+                                    <color key="titleColor" red="0.64525526762008667" green="0.705780029296875" blue="0.72682678699493408" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="KZP-9M-sRM" kind="custom" customClass="MCFadeSegue" id="HP7-A1-DGS"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Record" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Bs-ua-gGw">
+                                <rect key="frame" x="187" y="90" width="243" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="243" id="Xtk-lX-TsQ"/>
+                                    <constraint firstAttribute="height" constant="75" id="lXM-Ac-Jv9"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="40"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.12156862745098039" green="0.12941176470588237" blue="0.16470588235294117" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="7Bs-ua-gGw" firstAttribute="top" secondItem="vGz-Zx-ifQ" secondAttribute="top" constant="90" id="BwV-d5-XTx"/>
+                            <constraint firstItem="nfk-r9-vi7" firstAttribute="top" secondItem="vGz-Zx-ifQ" secondAttribute="top" constant="50" id="EKt-bd-s8O"/>
+                            <constraint firstAttribute="centerX" secondItem="7Bs-ua-gGw" secondAttribute="centerX" id="m4Q-Cc-O0T"/>
+                            <constraint firstItem="nfk-r9-vi7" firstAttribute="leading" secondItem="vGz-Zx-ifQ" secondAttribute="leading" constant="50" id="yM1-yB-GhD"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="k9d-pg-ktv" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="628" y="1067"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Osv-4A-J1h">
+            <objects>
+                <viewController id="KZP-9M-sRM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="GRe-Ns-oJE"/>
+                        <viewControllerLayoutGuide type="bottom" id="t8U-iz-baz"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="ptZ-5o-VA4">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yMz-DI-Jv6">
+                                <rect key="frame" x="152" y="433" width="296" height="64"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="64" id="Zph-wp-Pj0"/>
+                                    <constraint firstAttribute="width" constant="296" id="bOh-0e-f8a"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="20"/>
+                                <state key="normal" title="View the record">
+                                    <color key="titleColor" red="0.99989169836044312" green="1" blue="0.99988096952438354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="25"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="layer.borderWidth" value="1"/>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="layer.borderUIColor">
+                                        <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <variation key="heightClass=regular-widthClass=compact" ambiguous="YES" misplaced="YES">
+                                    <rect key="frame" x="210" y="442" width="180" height="42"/>
+                                </variation>
+                                <connections>
+                                    <segue destination="NXz-dd-zIh" kind="custom" customClass="MCFadeSegue" id="4jN-te-b7e"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j5k-DX-A5r">
+                                <rect key="frame" x="210" y="535" width="175" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="8cM-xW-jNn"/>
+                                    <constraint firstAttribute="width" constant="175" id="y06-SO-cFd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="13"/>
+                                <state key="normal" title="What is SimpleScan?">
+                                    <color key="titleColor" red="0.82736045122146606" green="0.82750314474105835" blue="0.82735145092010498" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <variation key="heightClass=regular-widthClass=compact" ambiguous="YES" misplaced="YES">
+                                    <rect key="frame" x="213" y="538" width="175" height="30"/>
+                                </variation>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="SimpleScan" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9uC-lu-3CH">
+                                <rect key="frame" x="27" y="90" width="532" height="75"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="500" id="2Od-3L-81s"/>
+                                    <constraint firstAttribute="height" constant="75" id="Ker-gl-Rzu"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Bold" family="Lato" pointSize="40"/>
+                                <color key="textColor" red="0.99989169836044312" green="1" blue="0.99988096952438354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hil-hN-qRf">
+                                <rect key="frame" x="152" y="330" width="296" height="64"/>
+                                <color key="backgroundColor" red="0.0" green="0.65779483318328857" blue="0.77546989917755127" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="296" id="AKa-7U-ogE"/>
+                                    <constraint firstAttribute="height" constant="64" id="M7Z-Go-H10"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Lato-Light" family="Lato" pointSize="20"/>
+                                <state key="normal" title="Scan Receipts">
+                                    <color key="titleColor" red="0.99989169836044312" green="1" blue="0.99988096952438354" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="25"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <variation key="heightClass=regular-widthClass=compact" ambiguous="YES" misplaced="YES">
+                                    <rect key="frame" x="213" y="365" width="175" height="50"/>
+                                </variation>
+                                <connections>
+                                    <segue destination="ijf-67-Z56" kind="custom" customClass="MCFadeSegue" id="tBg-Tz-AAt"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.12156862745098039" green="0.12941176470588237" blue="0.16078431372549021" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="Hil-hN-qRf" firstAttribute="top" secondItem="9uC-lu-3CH" secondAttribute="bottom" constant="165" id="M2c-ft-A9U"/>
+                            <constraint firstItem="Hil-hN-qRf" firstAttribute="centerX" secondItem="9uC-lu-3CH" secondAttribute="centerX" constant="-2.5" id="NcL-wc-xbm"/>
+                            <constraint firstItem="9uC-lu-3CH" firstAttribute="top" secondItem="ptZ-5o-VA4" secondAttribute="top" constant="90" id="PNc-bh-Clt"/>
+                            <constraint firstItem="9uC-lu-3CH" firstAttribute="centerX" secondItem="j5k-DX-A5r" secondAttribute="centerX" constant="2.5" id="hot-QR-9Z0"/>
+                            <constraint firstItem="j5k-DX-A5r" firstAttribute="top" secondItem="9uC-lu-3CH" secondAttribute="bottom" constant="370" id="j6b-7X-YVb"/>
+                            <constraint firstItem="yMz-DI-Jv6" firstAttribute="top" secondItem="9uC-lu-3CH" secondAttribute="bottom" constant="268" id="m9L-XM-E9j"/>
+                            <constraint firstAttribute="centerX" secondItem="9uC-lu-3CH" secondAttribute="centerX" id="nq3-Rm-fXF"/>
+                            <constraint firstItem="9uC-lu-3CH" firstAttribute="centerX" secondItem="yMz-DI-Jv6" secondAttribute="centerX" constant="2.5" id="sMR-am-3gI"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nJO-OA-t71" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-105" y="1067"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Wyo-Sc-4H3">
+            <objects>
+                <viewController id="cqN-5w-I7w" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="I9l-Ci-f3g"/>
+                        <viewControllerLayoutGuide type="bottom" id="dTi-No-tFz"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="iv0-do-J1x">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dIq-rw-vci" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="4jN-te-b7e"/>
+        <segue reference="Nmu-b8-pL5"/>
+        <segue reference="tBg-Tz-AAt"/>
+    </inferredMetricsTieBreakers>
+</document>

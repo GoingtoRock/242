@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>cs242</title>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<style>
+	.container {
+		width: 800px;
+		color: #444;
+	}
+	.project-container {
+		margin-top: 5px;
+		border: 1px solid #aaa;
+		border-radius: 6px;
+		padding: 5px 10px;
+	}
+	.title_project {
+		font-size: 16px;
+		font-weight: bold;
+		display: inline-block;
+	}
+	.date_project {
+		margin-left: 15px;
+		color: #d35400;
+		font-style: italic;
+		text-align: right;
+		display: block;
+	}
+	.version_project {
+		color: #2ecc71;
+		margin-left: 15px;
+		display: inline-block;
+	}
+	.summary_project {
+		color: #2980b9;
+		text-align: right;
+	}
+	
+	.file-container {
+		width: 700px;
+		padding: 5px 10px;
+		border-bottom: 1px dashed #ccc;
+		margin: 1px auto;
+	}
+	
+	.name {
+		color: #9b59b6;
+		font-weight: bold;	
+		display: inline-block;
+	}
+	.file-version {
+		color: #f1c40f;
+	}
+	.path {
+		float: right;
+		color: #8c8c8c;
+		font-style: italic;
+		display: inline-block;
+	}
+	.ondemand {
+		display: inline-block;
+	}
+	.file-date {
+		color: #3498db;
+		display: inline-block;
+		float: right;
+	}
+</style>
+</head>
+<body>
+	<div class="container">
+	{% for list in lists %}
+		<div class="project-container">
+			<div class="title_project">{{ list.title_project }}</div>
+			<div class="version_project">@{{ list.version_project }}</div>
+			<div class="date_project">{{ list.date_project }}</div>
+			<div class="summary_project">{{ list.summary_project }}</div>
+		</div>
+		{% for file in list.file %}
+		<div class="file-container">
+			<div class="name">{{ file.FileName }} <span class="file-version">@{{ file.Version }}</span></div>
+			<div class="path">{{ file.FilePath }}</div>
+			<div class="clearfix"></div>
+			<div class="ondemand">
+				{% if file.OnDemand %}
+				Modified By			
+				{% else %}
+				Created By
+				{% endif %}
+				<strong>{{ file.Author }}</strong> 
+			</div>
+			<div class="file-date">{{ file.Date }}</div>
+			<div class="clearfix"></div>
+			<div class="file-meta">
+				{% if file.Type === "Configs" %}
+				<i class="fa fa-lg fa-wrench"></i>
+				{% elseif file.Type === "Code" %}
+				<i class="fa fa-lg fa-file-code-o"></i>
+				{% elseif file.Type === "dir" %}
+				<i class="fa fa-lg fa-folder-o"></i>
+				{% elseif file.Type === "Image" %}
+				<i class="fa fa-lg fa-file-image-o"></i>
+				{% elseif file.Type === "Documentation" %}
+				<i class="fa fa-lg fa-file-text-o"></i>
+				{% elseif file.Type === "Text file" %}
+				<i class="fa fa-lg fa-file-word-o"></i>
+				{% elseif file.Type === "Test" %}
+				<i class="fa fa-lg fa-stethoscope"></i>
+				{% endif %}
+				<span class="size">{{ file.Size }} Bytes</span>	
+			</div>
+		</div>
+		{% endfor %}
+	{% endfor %}
+	</div>
+</body>
+</html>

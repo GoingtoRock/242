@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="3869">
+<author>park155</author>
+<date>2015-03-11T18:20:54.678420Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/park155/Assignment2.1/src/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment2.1/src/GraphLibrary.py</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment2.1/src/Testcases.py</path>
+</paths>
+<msg>testcase</msg>
+</logentry>
+<logentry
+   revision="3811">
+<author>park155</author>
+<date>2015-03-11T03:39:11.966712Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/park155/Assignment2.1/src/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment2.1/src/SaveFile.py</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment2.1/src/newFile.txt</path>
+</paths>
+<msg>change</msg>
+</logentry>
+<logentry
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/EditRoute.py</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/Node.py</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment2.1/src/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/GraphLibrary.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/Testcase/Testcases.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/Testcase/__init__.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/MapParser.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/Testcases.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/SaveFile.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/QueryData.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/Interface.py</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment2.1/old</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/.idea/src.iml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment2.1/old/src/.idea/scopes</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/Node.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/Edge.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/GraphLibrary.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/MapParser.py</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment2.1/src</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/RouteInfo.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/SaveFile.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/QueryData.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/.idea/src.iml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/Interface.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/newFile.txt</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/Edge.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment2.1/old/src</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/RouteInfo.py</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment2.1/src/.idea</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/cmi_hub.txt</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/newFile.txt</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/__init__.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/citylist.text</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment2.1/old/src/Testcase</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/src/EditRoute.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment2.1/old/src/.idea</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/cmi_hub.txt</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/src/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/__init__.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.1/old/src/citylist.text</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.1/old/src/.idea/encodings.xml</path>
+</paths>
+<msg>assignment 2.1</msg>
+</logentry>
+<logentry
+   revision="3341">
+<author>park155</author>
+<date>2015-03-04T20:02:42.379649Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/park155/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment2.0/MapParser.py</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment2.0/Testcases.py</path>
+</paths>
+<msg>testcases change maybe?</msg>
+</logentry>
+<logentry
+   revision="3321">
+<author>park155</author>
+<date>2015-03-04T15:43:54.465978Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/park155/Assignment1.2/src/Test/testmanual_1.png</path>
+<path
+   kind="file"
+   action="D">/park155/Assignment1.2/src/Test/testmanual_10.png</path>
+<path
+   kind="file"
+   action="D">/park155/Assignment1.2/src/Test/testmanual_2.png</path>
+<path
+   action="D"
+   kind="file">/park155/Assignment1.2/src/Test/GUITestManual</path>
+<path
+   kind="file"
+   action="D">/park155/Assignment1.2/src/Test/testmanual_3.png</path>
+<path
+   kind="file"
+   action="D">/park155/Assignment1.2/src/Test/testmanual_4.png</path>
+<path
+   action="D"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_5.png</path>
+<path
+   action="D"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_6.png</path>
+<path
+   action="D"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_7.png</path>
+<path
+   action="D"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_8.png</path>
+<path
+   action="D"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_9.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/Test/Testmanual.docx</path>
+</paths>
+<msg>updated testmanual</msg>
+</logentry>
+<logentry
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.0/Testcases.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.0/QueryData.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.0/Interface.py</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.0/citylist.text</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.0/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment2.0</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.0/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.0/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment2.0/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.0/GraphLibrary.py</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment2.0/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment2.0/.idea</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment2.0/MapParser.py</path>
+</paths>
+<msg>2.0</msg>
+</logentry>
+<logentry
+   revision="3163">
+<author>park155</author>
+<date>2015-03-02T19:26:26.160715Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.2/src/General/GUI.java</path>
+</paths>
+<msg>1.2</msg>
+</logentry>
+<logentry
+   revision="3162">
+<author>park155</author>
+<date>2015-03-02T19:10:24.619035Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/Test/testmanual_10.png</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.2/src/General/GUI.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/Test/testmanual_1.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_2.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_3.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/Test/GUITestManual</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.2/src/General/MoveCheck.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_4.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/Test/testmanual_5.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_6.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/Test/testmanual_7.png</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.2/src/pieceMove/Rook.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/Test/testmanual_8.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/Test/testmanual_9.png</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.2/src/Test/Testcases/TestCase.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.2/src/General/newChess.java</path>
+</paths>
+<msg>1.2 done
+</msg>
+</logentry>
+<logentry
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/wbishop.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/wknight.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/resources/brook.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/bkamikaze.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/bqueen.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/resources/bgreaterknight.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/resources/wking.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/General/MoveCheck.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/pieceMove/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/resources.iml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/pieceMove/isCheck.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/resources/Chess_Board.jpg</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/General/ChessMain.java</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/pieceMove/Queen.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/wpawn.gif</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.2/src/General</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.2/src/Test/Testcases</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/wrook.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/pieceMove/isKingSafe.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/pieceMove/Knight.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/pieceMove/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/resources/wkamikaze.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/pieceMove/CheckMateHelper.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/pieceMove/King.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/General/MoveExecute.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/pieceMove/GreaterKnight.java</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/bbishop.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/bknight.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/General/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/pieceMove/Rook.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/Test/Testcases/TestCase.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/bking.gif</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.2/src/resources</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.2/src/pieceMove</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/General/newChess.java</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.2/src/Test</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/General/GUI.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/resources/wqueen.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/resources/wgreaterknight.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/resources/bpawn.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.2/src/General/currentPiece.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.2/src/pieceMove/Kamikaze.java</path>
+</paths>
+<msg>1.2</msg>
+</logentry>
+<logentry
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/test/Assignment1.0/Testcases/SampleBoard.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/test/Assignment1.0/Testcases/TestCase.class</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/out/test/Assignment1.0/Testcases</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/out/test/Assignment1.0</path>
+<path
+   action="D"
+   kind="file">/park155/Assignment1.1/src/Test/SampleBoard.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/Test/Testcases/TestCase.java</path>
+<path
+   kind="file"
+   action="D">/park155/Assignment1.1/src/Test/TestCase.java</path>
+<path
+   kind="dir"
+   action="D">/park155/Assignment1.1/out/production/Assignment1.0/Test</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/src/Test/Testcases</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/out/test</path>
+</paths>
+<msg>sampleboard deleted</msg>
+</logentry>
+<logentry
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.1/src/pieceMove/isCheck.java</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.1/src/pieceMove/Kamikaze.java</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/Kamikaze.class</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.1/src/pieceMove/GreaterKnight.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/GreaterKnight.class</path>
+</paths>
+<msg>testcase updated</msg>
+</logentry>
+<logentry
+   revision="1537">
+<author>park155</author>
+<date>2015-02-17T01:13:03.029580Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>doxyfile added</msg>
+</logentry>
+<logentry
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/pieceMove/isCheck.java</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/out/production</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/wpawn.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/General/ChessMain.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/General/MoveExecute.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image/B_Pawn.png</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/Kamikaze.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/wpawn.gif</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/out/production/Assignment1.0/General</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/GreaterKnight.class</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/src/General</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/pieceMove/isKingSafe.java</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/out</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/wkamikaze.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/pieceMove/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/Image/B_Queen.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/General/MoveCheck.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/pieceMove/King.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/General/Pieces.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/Test/SampleBoard.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/General/ChessMain.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/bqueen.gif</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/out/production/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/resources/bbishop.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/bknight.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/General/Pieces.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/pieceMove/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/out/production/Assignment1.0/resources</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/Test/SampleBoard.class</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image/W_Knight.png</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/src/Test</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/Image/W_King.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/wgreaterknight.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/wqueen.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/General/currentPiece.java</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/.idea/scopes</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/resources/wknight.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/Rook.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/Image/B_Knight.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/brook.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/pieceMove/Kamikaze.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/wbishop.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/brook.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Test/TestCase.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image/W_Pawn.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/resources.iml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/General/MoveCheck.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/pieceMove/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/resources.iml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/Chess_Board.jpg</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/pieceMove/Queen.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/Test/TestCase.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/wrook.gif</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/out/production/Assignment1.0/Test</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/Image/B_Rook.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/wqueen.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/wrook.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/pieceMove/CheckMateHelper.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/pieceMove/Knight.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/General/MoveExecute.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/isCheck.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/.idea</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/Queen.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/pieceMove/GreaterKnight.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/resources/bknight.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/Knight.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/bbishop.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/resources/bking.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image/W_Queen.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/King.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/General/currentPiece.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/bking.gif</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/src/resources</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/General/newChess.java</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.1/src/pieceMove</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/Image/W_Bishop.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/General/ChessMain$1.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/General/GUI.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/bpawn.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/bpawn.gif</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/wbishop.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image/B_Bishop.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/wknight.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/resources/wking.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/bkamikaze.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/Image/B_King.png</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/bqueen.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/src/resources/bgreaterknight.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/src/resources/wking.gif</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/General/newChess.class</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/isKingSafe.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image/ChessPieces.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/pieceMove/CheckMateHelper.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/Image/W_Rook.png</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/out/production/Assignment1.0/resources/Chess_Board.jpg</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.1/out/production/Assignment1.0/General/GUI.class</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.1/.idea/compiler.xml</path>
+</paths>
+<msg>1.1 uploading for now, for doxygen</msg>
+</logentry>
+<logentry
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.0/src/pieceMove/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.0/src/pieceMove/KingSafe.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.0/src/pieceMove/King.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.0/src/pieceMove/Rook.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.0/src/pieceMove/CheckCheck.java</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.0/src/Test/SampleBoard.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.0/src/pieceMove/Queen.java</path>
+<path
+   kind="file"
+   action="M">/park155/Assignment1.0/src/GameManaging/newChess.java</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.0/src/Test/TestCase.java</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.0/src/GameManaging/MoveCheck.java</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.0/src/pieceMove/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/park155/Assignment1.0/src/pieceMove/Knight.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="818">
+<author>park155</author>
+<date>2015-02-11T13:39:02.132110Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.0/src/GameManaging/MoveCheck.java</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/pieceMove/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/GameManaging/ChessMain.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/pieceMove/Rook.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.0/src/pieceMove/CheckCheck.java</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.0</path>
+<path
+   action="D"
+   kind="dir">/park155/src</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.0/src/pieceMove/Queen.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.0/src/GameManaging/newChess.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.0/src/Test/TestCase.java</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.0/src/GameManaging</path>
+<path
+   action="A"
+   kind="dir">/park155/Assignment1.0/src/pieceMove</path>
+<path
+   kind="dir"
+   action="A">/park155/Assignment1.0/src/Test</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.0/src/pieceMove/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/pieceMove/Knight.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/pieceMove/KingSafe.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/GameManaging/MoveExecute.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/pieceMove/King.java</path>
+<path
+   action="A"
+   kind="file">/park155/Assignment1.0/src/Test/SampleBoard.java</path>
+<path
+   kind="file"
+   action="A">/park155/Assignment1.0/src/GameManaging/UserInterface.java</path>
+</paths>
+<msg>folder name change</msg>
+</logentry>
+<logentry
+   revision="773">
+<author>park155</author>
+<date>2015-02-11T04:29:21.410448Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/park155/src/Test</path>
+<path
+   action="A"
+   kind="file">/park155/src/pieceMove/Knight.java</path>
+<path
+   action="A"
+   kind="file">/park155/src/pieceMove/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/park155/src/pieceMove/KingSafe.java</path>
+<path
+   action="A"
+   kind="file">/park155/src/GameManaging/MoveExecute.java</path>
+<path
+   action="A"
+   kind="file">/park155/src/pieceMove/King.java</path>
+<path
+   kind="file"
+   action="A">/park155/src/Test/SampleBoard.java</path>
+<path
+   kind="file"
+   action="A">/park155/src/GameManaging/UserInterface.java</path>
+<path
+   kind="file"
+   action="A">/park155/src/GameManaging/MoveCheck.java</path>
+<path
+   kind="dir"
+   action="A">/park155/src</path>
+<path
+   kind="file"
+   action="A">/park155/src/pieceMove/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/park155/src/GameManaging/ChessMain.java</path>
+<path
+   kind="file"
+   action="A">/park155/src/pieceMove/Rook.java</path>
+<path
+   kind="file"
+   action="A">/park155/src/pieceMove/CheckCheck.java</path>
+<path
+   action="A"
+   kind="file">/park155/src/pieceMove/Queen.java</path>
+<path
+   action="A"
+   kind="file">/park155/src/Test/TestCase.java</path>
+<path
+   action="A"
+   kind="file">/park155/src/GameManaging/newChess.java</path>
+<path
+   action="A"
+   kind="dir">/park155/src/GameManaging</path>
+<path
+   action="A"
+   kind="dir">/park155/src/pieceMove</path>
+</paths>
+<msg>Assignment</msg>
+</logentry>
+<logentry
+   revision="102">
+<author>root</author>
+<date>2015-02-04T16:45:17.191332Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/park155</path>
+</paths>
+<msg>created directory park155</msg>
+</logentry>
+</log>

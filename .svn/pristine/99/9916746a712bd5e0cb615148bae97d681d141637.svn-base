@@ -1,0 +1,2492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp15-cs242/park155">
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/GameManaging</name>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/GameManaging/ChessMain.java</name>
+<size>1239</size>
+<commit
+   revision="818">
+<author>park155</author>
+<date>2015-02-11T13:39:02.132110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/GameManaging/MoveCheck.java</name>
+<size>9225</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/GameManaging/MoveExecute.java</name>
+<size>4191</size>
+<commit
+   revision="818">
+<author>park155</author>
+<date>2015-02-11T13:39:02.132110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/GameManaging/UserInterface.java</name>
+<size>2372</size>
+<commit
+   revision="818">
+<author>park155</author>
+<date>2015-02-11T13:39:02.132110Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/GameManaging/newChess.java</name>
+<size>6147</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Test</name>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Test/SampleBoard.java</name>
+<size>4080</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Test/TestCase.java</name>
+<size>8678</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/pieceMove</name>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/Bishop.java</name>
+<size>2553</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/CheckCheck.java</name>
+<size>6934</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/King.java</name>
+<size>2216</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/KingSafe.java</name>
+<size>1659</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/Knight.java</name>
+<size>2841</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/Pawn.java</name>
+<size>7530</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/Queen.java</name>
+<size>2690</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceMove/Rook.java</name>
+<size>3423</size>
+<commit
+   revision="837">
+<author>park155</author>
+<date>2015-02-11T18:58:15.757037Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>770</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/copyright</name>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/encodings.xml</name>
+<size>164</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>6534</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/scopes</name>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>78411</size>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0.iml</name>
+<size>1150</size>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="1537">
+<author>park155</author>
+<date>2015-02-17T01:13:03.029580Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/General</name>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/ChessMain$1.class</name>
+<size>517</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/ChessMain.class</name>
+<size>1205</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/GUI.class</name>
+<size>3949</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/MoveCheck.class</name>
+<size>3961</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/MoveExecute.class</name>
+<size>3112</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/Pieces.class</name>
+<size>1034</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/currentPiece.class</name>
+<size>2014</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/General/newChess.class</name>
+<size>3706</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/Image</name>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/B_Bishop.png</name>
+<size>19142</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/B_King.png</name>
+<size>16676</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/B_Knight.png</name>
+<size>23054</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/B_Pawn.png</name>
+<size>22292</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/B_Queen.png</name>
+<size>14359</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/B_Rook.png</name>
+<size>20802</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/ChessPieces.png</name>
+<size>3493</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/W_Bishop.png</name>
+<size>13161</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/W_King.png</name>
+<size>13733</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/W_Knight.png</name>
+<size>19634</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/W_Pawn.png</name>
+<size>181859</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/W_Queen.png</name>
+<size>13711</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/Image/W_Rook.png</name>
+<size>19275</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove</name>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/Bishop.class</name>
+<size>1780</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/CheckMateHelper.class</name>
+<size>3441</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/GreaterKnight.class</name>
+<size>1745</size>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/Kamikaze.class</name>
+<size>444</size>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/King.class</name>
+<size>1573</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/Knight.class</name>
+<size>1721</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/Pawn.class</name>
+<size>3419</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/Queen.class</name>
+<size>1778</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/Rook.class</name>
+<size>2345</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/isCheck.class</name>
+<size>3355</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/pieceMove/isKingSafe.class</name>
+<size>1049</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/resources</name>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/Chess_Board.jpg</name>
+<size>18995</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/bbishop.gif</name>
+<size>740</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/bking.gif</name>
+<size>1025</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/bknight.gif</name>
+<size>775</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/bpawn.gif</name>
+<size>396</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/bqueen.gif</name>
+<size>832</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/brook.gif</name>
+<size>685</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/resources.iml</name>
+<size>418</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/wbishop.gif</name>
+<size>884</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/wking.gif</name>
+<size>940</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/wknight.gif</name>
+<size>863</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/wpawn.gif</name>
+<size>742</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/wqueen.gif</name>
+<size>989</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/resources/wrook.gif</name>
+<size>823</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/test</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/test/Assignment1.0</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/test/Assignment1.0/Testcases</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/test/Assignment1.0/Testcases/SampleBoard.class</name>
+<size>278</size>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/test/Assignment1.0/Testcases/TestCase.class</name>
+<size>10213</size>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/General</name>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/General/ChessMain.java</name>
+<size>1084</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/General/GUI.java</name>
+<size>4408</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/General/MoveCheck.java</name>
+<size>7605</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/General/MoveExecute.java</name>
+<size>5591</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/General/Pieces.java</name>
+<size>780</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/General/currentPiece.java</name>
+<size>3517</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/General/newChess.java</name>
+<size>5873</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Test</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Test/Testcases</name>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Test/Testcases/TestCase.java</name>
+<size>13633</size>
+<commit
+   revision="1595">
+<author>park155</author>
+<date>2015-02-17T19:06:29.402477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/pieceMove</name>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/Bishop.java</name>
+<size>2849</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/CheckMateHelper.java</name>
+<size>5698</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/GreaterKnight.java</name>
+<size>3315</size>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/Kamikaze.java</name>
+<size>448</size>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/King.java</name>
+<size>2403</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/Knight.java</name>
+<size>3206</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/Pawn.java</name>
+<size>8904</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/Queen.java</name>
+<size>2825</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/Rook.java</name>
+<size>3999</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/isCheck.java</name>
+<size>9642</size>
+<commit
+   revision="1594">
+<author>park155</author>
+<date>2015-02-17T19:04:26.919466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieceMove/isKingSafe.java</name>
+<size>1673</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/resources</name>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/Chess_Board.jpg</name>
+<size>18995</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/bbishop.gif</name>
+<size>740</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/bgreaterknight.png</name>
+<size>1719</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/bkamikaze.png</name>
+<size>1679</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/bking.gif</name>
+<size>1025</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/bknight.gif</name>
+<size>775</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/bpawn.gif</name>
+<size>396</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/bqueen.gif</name>
+<size>832</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/brook.gif</name>
+<size>685</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/resources.iml</name>
+<size>418</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wbishop.gif</name>
+<size>884</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wgreaterknight.png</name>
+<size>1733</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wkamikaze.png</name>
+<size>1763</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wking.gif</name>
+<size>940</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wknight.gif</name>
+<size>863</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wpawn.gif</name>
+<size>742</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wqueen.gif</name>
+<size>989</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/resources/wrook.gif</name>
+<size>823</size>
+<commit
+   revision="1536">
+<author>park155</author>
+<date>2015-02-17T01:01:19.852701Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="3321">
+<author>park155</author>
+<date>2015-03-04T15:43:54.465978Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="3321">
+<author>park155</author>
+<date>2015-03-04T15:43:54.465978Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/General</name>
+<commit
+   revision="3163">
+<author>park155</author>
+<date>2015-03-02T19:26:26.160715Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/General/ChessMain.java</name>
+<size>1194</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/General/GUI.java</name>
+<size>19856</size>
+<commit
+   revision="3163">
+<author>park155</author>
+<date>2015-03-02T19:26:26.160715Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/General/MoveCheck.java</name>
+<size>7681</size>
+<commit
+   revision="3162">
+<author>park155</author>
+<date>2015-03-02T19:10:24.619035Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/General/MoveExecute.java</name>
+<size>5589</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/General/Pieces.java</name>
+<size>780</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/General/currentPiece.java</name>
+<size>3517</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/General/newChess.java</name>
+<size>6772</size>
+<commit
+   revision="3162">
+<author>park155</author>
+<date>2015-03-02T19:10:24.619035Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Test</name>
+<commit
+   revision="3321">
+<author>park155</author>
+<date>2015-03-04T15:43:54.465978Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Test/Testcases</name>
+<commit
+   revision="3162">
+<author>park155</author>
+<date>2015-03-02T19:10:24.619035Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Test/Testcases/TestCase.java</name>
+<size>13634</size>
+<commit
+   revision="3162">
+<author>park155</author>
+<date>2015-03-02T19:10:24.619035Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Test/Testmanual.docx</name>
+<size>891343</size>
+<commit
+   revision="3321">
+<author>park155</author>
+<date>2015-03-04T15:43:54.465978Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/pieceMove</name>
+<commit
+   revision="3162">
+<author>park155</author>
+<date>2015-03-02T19:10:24.619035Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/Bishop.java</name>
+<size>2849</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/CheckMateHelper.java</name>
+<size>5698</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/GreaterKnight.java</name>
+<size>3323</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/Kamikaze.java</name>
+<size>448</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/King.java</name>
+<size>2403</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/Knight.java</name>
+<size>3206</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/Pawn.java</name>
+<size>8904</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/Queen.java</name>
+<size>2825</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/Rook.java</name>
+<size>3885</size>
+<commit
+   revision="3162">
+<author>park155</author>
+<date>2015-03-02T19:10:24.619035Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/isCheck.java</name>
+<size>9635</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieceMove/isKingSafe.java</name>
+<size>1673</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/resources</name>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/Chess_Board.jpg</name>
+<size>18995</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/bbishop.gif</name>
+<size>740</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/bgreaterknight.png</name>
+<size>1719</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/bkamikaze.png</name>
+<size>1679</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/bking.gif</name>
+<size>1025</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/bknight.gif</name>
+<size>775</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/bpawn.gif</name>
+<size>396</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/bqueen.gif</name>
+<size>832</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/brook.gif</name>
+<size>685</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/resources.iml</name>
+<size>418</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wbishop.gif</name>
+<size>884</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wgreaterknight.png</name>
+<size>1733</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wkamikaze.png</name>
+<size>1763</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wking.gif</name>
+<size>940</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wknight.gif</name>
+<size>863</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wpawn.gif</name>
+<size>742</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wqueen.gif</name>
+<size>989</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/resources/wrook.gif</name>
+<size>823</size>
+<commit
+   revision="2749">
+<author>park155</author>
+<date>2015-02-25T18:43:55.844765Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/Assignment2.0.iml</name>
+<size>284</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/encodings.xml</name>
+<size>164</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/misc.xml</name>
+<size>260</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/scopes</name>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/workspace.xml</name>
+<size>65505</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/GraphLibrary.py</name>
+<size>1008</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Interface.py</name>
+<size>1075</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/MapParser.py</name>
+<size>1949</size>
+<commit
+   revision="3341">
+<author>park155</author>
+<date>2015-03-04T20:02:42.379649Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/QueryData.py</name>
+<size>5783</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Testcases.py</name>
+<size>1993</size>
+<commit
+   revision="3341">
+<author>park155</author>
+<date>2015-03-04T20:02:42.379649Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/citylist.text</name>
+<size>15779</size>
+<commit
+   revision="3265">
+<author>park155</author>
+<date>2015-03-04T05:31:41.655230Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="3869">
+<author>park155</author>
+<date>2015-03-11T18:20:54.678420Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/old</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/old/src</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/old/src/.idea</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/.name</name>
+<size>3</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/encodings.xml</name>
+<size>164</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/misc.xml</name>
+<size>260</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/modules.xml</name>
+<size>258</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/old/src/.idea/scopes</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/src.iml</name>
+<size>284</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/.idea/workspace.xml</name>
+<size>39555</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/Edge.py</name>
+<size>230</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/EditRoute.py</name>
+<size>11168</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/GraphLibrary.py</name>
+<size>1067</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/Interface.py</name>
+<size>1703</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/MapParser.py</name>
+<size>2143</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/Node.py</name>
+<size>442</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/QueryData.py</name>
+<size>5786</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/RouteInfo.py</name>
+<size>3293</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/SaveFile.py</name>
+<size>1013</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/old/src/Testcase</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/Testcase/Testcases.py</name>
+<size>4161</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/Testcase/__init__.py</name>
+<size>26</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/__init__.py</name>
+<size>26</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/citylist.text</name>
+<size>15779</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/cmi_hub.txt</name>
+<size>1104</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/old/src/newFile.txt</name>
+<size>16164</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src</name>
+<commit
+   revision="3869">
+<author>park155</author>
+<date>2015-03-11T18:20:54.678420Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/.idea</name>
+<commit
+   revision="3869">
+<author>park155</author>
+<date>2015-03-11T18:20:54.678420Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/.name</name>
+<size>3</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/encodings.xml</name>
+<size>164</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/misc.xml</name>
+<size>1295</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/modules.xml</name>
+<size>258</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/.idea/scopes</name>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/src.iml</name>
+<size>367</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/.idea/workspace.xml</name>
+<size>52971</size>
+<commit
+   revision="3869">
+<author>park155</author>
+<date>2015-03-11T18:20:54.678420Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Edge.py</name>
+<size>230</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/EditRoute.py</name>
+<size>11093</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/GraphLibrary.py</name>
+<size>3291</size>
+<commit
+   revision="3869">
+<author>park155</author>
+<date>2015-03-11T18:20:54.678420Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Interface.py</name>
+<size>2268</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/MapParser.py</name>
+<size>2139</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Node.py</name>
+<size>442</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/QueryData.py</name>
+<size>5785</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/RouteInfo.py</name>
+<size>3444</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/SaveFile.py</name>
+<size>1028</size>
+<commit
+   revision="3811">
+<author>park155</author>
+<date>2015-03-11T03:39:11.966712Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/Testcases.py</name>
+<size>3899</size>
+<commit
+   revision="3869">
+<author>park155</author>
+<date>2015-03-11T18:20:54.678420Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/__init__.py</name>
+<size>26</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/citylist.text</name>
+<size>15779</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/cmi_hub.txt</name>
+<size>1104</size>
+<commit
+   revision="3806">
+<author>park155</author>
+<date>2015-03-11T03:09:07.296025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/newFile.txt</name>
+<size>37163</size>
+<commit
+   revision="3811">
+<author>park155</author>
+<date>2015-03-11T03:39:11.966712Z</date>
+</commit>
+</entry>
+</list>
+</lists>

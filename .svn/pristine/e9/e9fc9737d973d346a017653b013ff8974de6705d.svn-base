@@ -1,0 +1,32 @@
+GUI Test Manual
+
+=> Find ChessMain in General folder, right click and run it.
+
+=> Hit the New Match Button, then you will be asked to type the player's name, like testmanual_1.png in same folder.
+You may type any word you want to put : if you cancel it, the name will be set as default name "Player 1". Same for Player 2 as well.
+
+=> Move the fifth White Pawn from the left up by 2.(2e -> 4e) It should be look like testmanual_2.png.
+
+=> Move the second Black Pawn from the right down by 2.(7g -> 5g) It should be look like testmanual_3.png.
+
+=> Hit undo to reset the Black Pawn. Now move the third Black Pawn from the right down by 2. (7f -> 5f)
+And the white player move the White Kamikaze from 1f to 4c position.
+Move the fourth Black Pawn from the right down by 2.(7e -> 5e).
+Check if it is same as testmanual_4.png.
+
+=> Move the White Player's Queen from 1d to 5h. There is a warning sign popped up.
+Move the Black Kamikaze from 8f to 7f to protect the king. It should be like testmanual_5.png.
+
+=> Now take the black Kamikaze with the white Queen like testmanual_6.png. The checkmate sign comes up - White player won.
+The victory popup will follow after checkmate popup. Notice the score go up by 1 in white side.
+
+=> Now hit rematch. It will ask if both player wants to rematch again, like testmanual_7.png.
+
+=> New board will come up like testmanual_8.png. Make any move from the white and make the black player's turn.
+Hit surrender. The confirmation popup will appear like testmanual_9.png.
+
+=> When you agree, that will be the end of game, and the score of white player will go up by 1, like testmanual_10.png.
+
+=> UIUC rocks! Hope you enjoyed this.
+
+

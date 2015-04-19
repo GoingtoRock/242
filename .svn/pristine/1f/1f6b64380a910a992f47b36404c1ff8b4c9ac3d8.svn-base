@@ -1,0 +1,46 @@
+{
+  "author": {
+    "name": "Valentin-Costel Hăloiu",
+    "email": "vially.ichb@gmail.com"
+  },
+  "name": "cpanel-lib",
+  "description": "Node.js library for the cPanel/WHM API",
+  "version": "0.0.3",
+  "homepage": "https://github.com/vially/cpanel-lib",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vially/cpanel-lib.git"
+  },
+  "main": "lib/cpanel",
+  "engines": {
+    "node": "~0.6.0"
+  },
+  "dependencies": {
+    "qs": ">= 0.3.2"
+  },
+  "devDependencies": {},
+  "_npmUser": {
+    "name": "vially",
+    "email": "vially.ichb@gmail.com"
+  },
+  "_id": "cpanel-lib@0.0.3",
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.1",
+  "_nodeVersion": "v0.6.11",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "d1879e7f6104054249ebd2ce9f08ff25b7296890",
+    "tarball": "http://registry.npmjs.org/cpanel-lib/-/cpanel-lib-0.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "vially",
+      "email": "vially.ichb@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "d1879e7f6104054249ebd2ce9f08ff25b7296890",
+  "_resolved": "https://registry.npmjs.org/cpanel-lib/-/cpanel-lib-0.0.3.tgz",
+  "_from": "cpanel-lib@*"
+}

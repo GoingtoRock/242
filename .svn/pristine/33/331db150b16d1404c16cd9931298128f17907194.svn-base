@@ -1,0 +1,133 @@
+//
+//  PasswordViewController.m
+//  Spend1
+//
+//  Created by Jaehwan Park on 2/28/15.
+//  Copyright (c) 2015 Jaehwan Park. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "PasswordViewController.h"
+
+//#import "NJOPasswordStrengthEvaluator.h"
+
+//typedef NS_ENUM(NSUInteger, PasswordValidatorSegmentIndexes) {
+//    LenientValidatorSegmentIndex,
+//    StrictValidatorSegmentIndex,
+//};
+//
+//@interface PasswordEvaluationViewController ()
+//@property (readwrite, nonatomic, strong) NJOPasswordValidator *lenientValidator;
+//@property (readwrite, nonatomic, strong) NJOPasswordValidator *strictValidator;
+//@property (readonly, nonatomic) NJOPasswordValidator *validator;
+//@end
+//
+//@implementation PasswordEvaluationViewController
+//
+//- (id)initWithNibName:(NSString *)nibNameOrNil
+//               bundle:(NSBundle *)nibBundleOrNil
+//{
+//    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+//    if (!self) {
+//        return nil;
+//    }
+//    
+//    self.lenientValidator = [NJOPasswordValidator standardValidator];
+//    self.strictValidator = [NJOPasswordValidator validatorWithRules:@[[NJOLengthRule ruleWithRange:NSMakeRange(8, 64)], [NJORequiredCharacterRule lowercaseCharacterRequiredRule], [NJORequiredCharacterRule uppercaseCharacterRequiredRule], [NJORequiredCharacterRule symbolCharacterRequiredRule]]];
+//    
+//    return self;
+//}
+//
+//- (NJOPasswordValidator *)validator {
+//    switch ([self.segmentedControl selectedSegmentIndex]) {
+//        case LenientValidatorSegmentIndex:
+//            return self.lenientValidator;
+//        case StrictValidatorSegmentIndex:
+//            return self.strictValidator;
+//        default:
+//            return nil;
+//    }
+//}
+//
+//#pragma mark - UIViewController
+//
+//- (void)viewDidLoad {
+//    [super viewDidLoad];
+//    
+//    self.title = NSLocalizedString(@"Navajo", nil);
+//    
+//    [[NSNotificationCenter defaultCenter] addObserverForName:UITextFieldTextDidChangeNotification object:self.passwordTextField queue:[NSOperationQueue mainQueue] usingBlock:^(NSNotification *note) {
+//        [self updatePasswordStrength:note.object];
+//    }];
+//    
+//    [self updatePasswordStrength:self];
+//}
+//
+//#pragma mark - IBAction
+//
+//- (IBAction)segmentedControlDidChangeValue:(id)sender {
+//    [self updatePasswordStrength:sender];
+//}
+//
+//#pragma mark -
+//
+//- (void)updatePasswordStrength:(id)sender {
+//    NSString *password = self.passwordTextField.text;
+//    
+//    if ([password length] == 0) {
+//        self.validationErrorsTextView.text = nil;
+//        self.passwordStrengthMeterView.progress = 0.0f;
+//        self.passwordStrengthLabel.text = nil;
+//    } else {
+//        NJOPasswordStrength strength = [NJOPasswordStrengthEvaluator strengthOfPassword:password];
+//        
+//        NSArray *failingRules = nil;
+//        if ([self.validator validatePassword:password failingRules:&failingRules]) {
+//            self.passwordStrengthLabel.text = [NJOPasswordStrengthEvaluator localizedStringForPasswordStrength:strength];
+//            switch (strength) {
+//                case NJOVeryWeakPasswordStrength:
+//                    self.passwordStrengthMeterView.progress = 0.05f;
+//                    self.passwordStrengthMeterView.tintColor = [UIColor redColor];
+//                    break;
+//                case NJOWeakPasswordStrength:
+//                    self.passwordStrengthMeterView.progress = 0.25f;
+//                    self.passwordStrengthMeterView.tintColor = [UIColor orangeColor];
+//                    break;
+//                case NJOReasonablePasswordStrength:
+//                    self.passwordStrengthMeterView.progress = 0.5f;
+//                    self.passwordStrengthMeterView.tintColor = [UIColor yellowColor];
+//                    break;
+//                case NJOStrongPasswordStrength:
+//                    self.passwordStrengthMeterView.progress = 0.75f;
+//                    self.passwordStrengthMeterView.tintColor = [UIColor greenColor];
+//                    break;
+//                case NJOVeryStrongPasswordStrength:
+//                    self.passwordStrengthMeterView.progress = 1.0f;
+//                    self.passwordStrengthMeterView.tintColor = [UIColor cyanColor];
+//                    break;
+//            }
+//            
+//            self.validationErrorsTextView.text = nil;
+//        } else {
+//            self.passwordStrengthLabel.text = NSLocalizedString(@"Invalid Password", nil);
+//            self.passwordStrengthMeterView.progress = 0.0f;
+//            self.passwordStrengthMeterView.tintColor = [UIColor redColor];
+//            
+//            NSMutableAttributedString *mutableAttributedString = [[NSMutableAttributedString alloc] init];
+//            for (id <NJOPasswordRule> rule in failingRules) {
+//                [mutableAttributedString appendAttributedString:[[NSMutableAttributedString alloc] initWithString:[NSString stringWithFormat:@"• %@\n", [rule localizedErrorDescription]] attributes:@{NSForegroundColorAttributeName: [UIColor redColor]}]];
+//            }
+//            
+//            self.validationErrorsTextView.attributedText = mutableAttributedString;
+//        }
+//    }
+//}
+//
+//#pragma mark - UITextFieldDelegate
+//
+//- (BOOL)textFieldShouldReturn:(UITextField *)textField {
+//    [textField resignFirstResponder];
+//    return YES;
+//}
+//
+//@end

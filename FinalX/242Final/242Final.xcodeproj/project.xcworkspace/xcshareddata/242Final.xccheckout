@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>99E217D4-B579-4738-8029-FFC8CE400116</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7fa9dbd2-4cc7-43cb-85fe-f066a292d5d7++7936</key>
+		<string>https://subversion.ews.illinois.edu/svn/sp15-cs242/park155</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FinalX/242Final/242Final.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7fa9dbd2-4cc7-43cb-85fe-f066a292d5d7++7936</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7fa9dbd2-4cc7-43cb-85fe-f066a292d5d7++7936</key>
+		<string>https://subversion.ews.illinois.edu/svn/sp15-cs242</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.ews.illinois.edu/svn/sp15-cs242/park155/FinalX/242Final/242Final.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7fa9dbd2-4cc7-43cb-85fe-f066a292d5d7++7936</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7fa9dbd2-4cc7-43cb-85fe-f066a292d5d7++7936</string>
+			<key>IDESourceControlWCCName</key>
+			<string>park155</string>
+		</dict>
+	</array>
+</dict>
+</plist>
